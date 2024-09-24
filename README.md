@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ## Olá me Chamo Pedro Sou Estudante do 1MA DO Ensino Médio 
 Você pode entrar em contato comigo pelo mailbox 
 pedro.bay@escola.pr.gov.br
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-![Beleza](https://tenor.com/pt-BR/view/cool-nice-ok-thanks-bye-gif-11308854)
